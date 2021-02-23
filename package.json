@@ -28,7 +28,7 @@
     "start": "nwb serve-react-demo"
   },
   "dependencies": {
-    "clean-react-props": "^0.3.3",
+    "clean-react-props": "^0.4.0",
     "jquery": "^3.4.1",
     "jquery.ripples": "^0.6.3",
     "react": "^16.9.0",
