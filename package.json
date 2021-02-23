@@ -63,7 +63,7 @@
     "prettier-package-json": "^2.1.0",
     "react-github-corner": "^2.3.0",
     "react-linear-gradient-button": "^1.1.1",
-    "ts-loader": "^6.1.0",
+    "ts-loader": "^8.0.10",
     "typescript": "^3.6.3"
   },
   "keywords": [
