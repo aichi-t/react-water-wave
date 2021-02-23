@@ -2028,9 +2028,9 @@ clean-css@4.2.x:
   dependencies:
     source-map "~0.6.0"
 
-clean-react-props@^0.3.3:
-  version "0.3.3"
-  resolved "https://registry.yarnpkg.com/clean-react-props/-/clean-react-props-0.3.3.tgz#bc9ca37bb6b42e1c2dd04ecef6bde1b51db1a3af"
+clean-react-props@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/clean-react-props/-/clean-react-props-0.4.0.tgz#68642be5538a5fece380fed704a560de2db67954"
 
 clean-stack@^2.0.0:
   version "2.2.0"
